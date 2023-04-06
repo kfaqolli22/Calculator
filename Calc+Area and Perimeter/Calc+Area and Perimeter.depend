@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680810249 source:c:\users\user\desktop\assigment 1 swe\calc+area and perimeter\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+
